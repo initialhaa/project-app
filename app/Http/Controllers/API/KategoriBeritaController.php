@@ -17,9 +17,9 @@ class KategoriBeritaController extends Controller
     *       description="Mengambil Data Kategori Berita",
     *      
     */
-    public function listKategoriBerita() {
-        return 'true';
-    }
+    // public function listKategoriBerita() {
+    //     return 'true';
+    // }
     
     public function index() {
         return 'ading';
